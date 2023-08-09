@@ -7,8 +7,8 @@ The technical framework diagram of this project is as follow, where the dotted b
    requirments_freeze.txt
 ## 2. Including models
    -  A model for classifying intent to gossip
-   |  闲聊意图   | 含义  |
-|  ----  | ----  |
+|  闲聊意图   | 含义  |
+|  ----  | ----: |
 | greet  | 打招呼 |
 | goodbye  | 再见 |
 | deny  | 否定 |
