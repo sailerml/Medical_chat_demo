@@ -7,11 +7,10 @@ The technical framework diagram of this project is as follow, where the dotted b
    requirments_freeze.txt
 ## 2. Including models
    -  A model for classifying intent to gossip
-|  闲聊意图   | 含义  |
-|  ----  | ----: |
-| greet  | 打招呼 |
-| goodbye  | 再见 |
-| deny  | 否定 |
-| isbot  | 闲聊 |
-| accept  | 接受 |
-| diagnosis  | 医疗问诊 |
+      ![image](https://github.com/sailerml/Medical_chat_demo/assets/10277621/b73e82c7-38c6-4ae7-a7a4-12234e6e225f)
+   -  unit test
+      ```python
+      python ./nlu/sklearn_Classification/clf_model.py
+      ```
+
+   
