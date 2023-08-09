@@ -19,13 +19,25 @@ The technical framework diagram of this project is as follow, where the dotted b
       | accept  | 接受 |
       | diagnosis  | 医疗问诊 |
      
-         ```
+         ```python
          python ./nlu/sklearn_Classification/clf_model.py
          ```
    -  A medical Intent Classification Model
-      ![image](https://github.com/sailerml/Medical_chat_demo/assets/10277621/e7351ba0-b532-47b1-b2f1-c7e580d41bde)
-      
-
+      |  医疗意图   | 示例  |  含义  |
+      |  ----  | :----:  | ----:  |
+      | 定义  | 如何快速识别心绞痛？ | 0 |
+      | 病因  | 今天感觉肚子发硬怎么回事？ | 1 |
+      | 预防  | 得了肠胃炎多吃什么比较好？ | 2 |
+      | 症状  | 咽喉肿痛、剧烈咳嗽、多痰 | 3 |
+      | 相关病症  | 药物中毒所致的精神障碍是什么病 | 4 |
+      | 治疗方法  | 失眠心悸该怎么办 | 5 |
+      | 所属科室  | 成都肛肠医院哪里治疗便秘好? | 6 |
+      | 传染性  | 风湿性心脏病会遗传给外孙吗 | 7 |
+      | 治愈率  | 变异性哮喘可以治愈吗 | 8 |
+      | 禁忌  | 胸壁肿瘤有什么不能吃的？ | 9 |
+      | 治疗时间  | 引产后需要休息多长时间？ | 10 |
+      | 化验/体检方案  | 心悸要做什么检查 | 11 |
+      | 其他  | 冠状动脉加强CT和肺部CT能否一起做？ | 12 |
       
          ```python
          python ./nlu/intent_recg_bert/app.py
