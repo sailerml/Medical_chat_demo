@@ -9,15 +9,17 @@ The technical framework diagram of this project is as follow, where the dotted b
 ## 2. Including models
 
    - A model for classifying intent to gossip
-      ![image](https://github.com/sailerml/Medical_chat_demo/assets/10277621/35fd19e9-771b-4c5f-bb1e-9dd664850d77)
+
+      |  闲聊意图   | 含义  |
+      |  ----  | ----: |
+      | greet  | 打招呼 |
+      | goodbye  | 再见 |
+      | deny  | 否定 |
+      | isbot  | 闲聊 |
+      | accept  | 接受 |
+      | diagnosis  | 医疗问诊 |
      
-    
-     | Tables   |      Are      |  Cool |
-      |----------|:-------------:|------:|
-      | col 1 is |  left-aligned | $1600 |
-      | col 2 is |    centered   |   $12 |
-      | col 3 is | right-aligned |    $1 |
-         ```python
+         ```
          python ./nlu/sklearn_Classification/clf_model.py
          ```
    -  A medical Intent Classification Model
