@@ -60,9 +60,9 @@ The technical framework diagram of this project is as follow, where the dotted b
          ```
 ## 3. Running
    
-      ```python
-      python local.py
-      ```
+   ```python
+   python local.py
+   ```
 ## 4. Other resource
     
    chinese_bert: chinese_L-12_H-768_A-12
