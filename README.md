@@ -74,3 +74,7 @@ The technical framework diagram of this project is as follow, where the dotted b
    -  API interface development
    -  Robustness optimization
 
+## 6. Training data and model
+
+   链接：https://pan.baidu.com/s/1wHKBRzNPjekzKBP5WvlsGg 
+   提取码：ly9a
