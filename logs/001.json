@@ -1,0 +1,18 @@
+{
+    "ask_template": "您问的是疾病 '{Disease}' 的治疗方法吗？", 
+    "cql_template": [
+        "MATCH(p:疾病) WHERE p.name='{Disease}' RETURN p.cure_way", 
+        "MATCH(p:疾病)-[r:recommand_drug]->(q) WHERE p.name='{Disease}' RETURN q.name", 
+        "MATCH(p:疾病)-[r:recommand_recipes]->(q) WHERE p.name='{Disease}' RETURN q.name"
+    ], 
+    "deny_response": "没有理解您说的意思哦~", 
+    "intent_strategy": "accept", 
+    "replay_answer": "when accept answer", 
+    "reply_template": "'{Disease}' 疾病的治疗方式、可用的药物、推荐菜肴有：\n", 
+    "slot_list": [
+        "Disease"
+    ], 
+    "slot_values": {
+        "Disease": "心脏病"
+    }
+}

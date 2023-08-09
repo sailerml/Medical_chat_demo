@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91ea849f-16cf-4a53-bbf5-1d4cdd083745" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/bilstm/ChineseBLUEdata/data/cMedQANER/cMedQANER.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/bilstm/ChineseBLUEdata/data/cMedQANER/dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/bilstm/ChineseBLUEdata/data/cMedQANER/dev.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/bilstm/ChineseBLUEdata/data/cMedQANER/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/bilstm/ChineseBLUEdata/data/cMedQANER/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/bilstm/ChineseBLUEdata/data/cMedQANER/train.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/bilstm/ChineseBLUEdata/data/cMedQANER/train.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/data/__MACOSX/dev_data/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/data/__MACOSX/dev_data/._License.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/data/__MACOSX/test1_data/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/data/__MACOSX/test1_data/._License.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/data/__MACOSX/test1_data/._test1_data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/data/__MACOSX/train_data/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/data/__MACOSX/train_data/._License.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/data/dev_data/License.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/data/dev_data/dev_data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/data/test1_data/License.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/data/test1_data/test1_data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/data/train_data/License.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_extraction/data/train_data/train_data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlu/intent_recg_bert/CMID.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlu/intent_recg_bert/CMID/CMID.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlu/intent_recg_bert/CMID/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlu/intent_recg_bert/bert_model_pkg/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlu/intent_recg_bert/bert_model_pkg/dropout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlu/intent_recg_bert/bert_model_pkg/multirel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlu/intent_recg_bert/data/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlu/intent_recg_bert/data/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlu/intent_recg_bert/data/test_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlu/intent_recg_bert/data/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlu/intent_recg_bert/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlu/intent_recg_bert/train.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TjKJOV9XcPswXkY12CZ3rKtHfj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.app (1)">
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="medical_chat_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/knowledge_extraction/bilstm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knowledge_extraction/bilstm/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="medical_chat_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nlu/intent_recg_bert" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nlu/intent_recg_bert/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clf_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="medical_chat_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nlu/sklearn_Classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nlu/sklearn_Classification/clf_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="local" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="medical_chat_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/local.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.local" />
+        <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.clf_model" />
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91ea849f-16cf-4a53-bbf5-1d4cdd083745" name="Changes" comment="" />
+      <created>1691550976517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691550976517</updated>
+      <workItem from="1691550977631" duration="11023000" />
+      <workItem from="1691574664565" duration="603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/medical_chat_demo$app.coverage" NAME="app Coverage Results" MODIFIED="1691552890117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nlu/intent_recg_bert" />
+    <SUITE FILE_PATH="coverage/medical_chat_demo$local.coverage" NAME="local Coverage Results" MODIFIED="1691562110385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/medical_chat_demo$clf_model.coverage" NAME="clf_model Coverage Results" MODIFIED="1691553164742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nlu/sklearn_Classification" />
+    <SUITE FILE_PATH="coverage/medical_chat_demo$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1691560145436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/knowledge_extraction/bilstm" />
+  </component>
+</project>
