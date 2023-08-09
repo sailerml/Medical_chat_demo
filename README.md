@@ -8,21 +8,27 @@ The technical framework diagram of this project is as follow, where the dotted b
    
 ## 2. Including models
 
-   -  1）A model for classifying intent to gossip
+   - A model for classifying intent to gossip
       ![image](https://github.com/sailerml/Medical_chat_demo/assets/10277621/35fd19e9-771b-4c5f-bb1e-9dd664850d77)
+     
          unit test
+     
          ```python
          python ./nlu/sklearn_Classification/clf_model.py
          ```
-   -  2）A medical Intent Classification Model
+   -  A medical Intent Classification Model
       ![image](https://github.com/sailerml/Medical_chat_demo/assets/10277621/e7351ba0-b532-47b1-b2f1-c7e580d41bde)
+      
          unit test
+      
          ```python
          python ./nlu/intent_recg_bert/app.py
          ```
-   -  3) A NER model
+   -  A NER model
       ![image](https://github.com/sailerml/Medical_chat_demo/assets/10277621/51a1e24d-c188-4759-99a4-4e0a033e9a24)
+
          unit test
+      
          ```python
          python ./knowledge_extraction/bilstm/app.py
          ```
@@ -36,6 +42,6 @@ The technical framework diagram of this project is as follow, where the dotted b
    chinese_bert: chinese_L-12_H-768_A-12
 
 ## 5. TO DO
-   -  1）Answer retrieval and response part
-   -  2) API interface development
-   -  3) Robustness optimization
+   -  Answer retrieval and response part
+   -  API interface development
+   -  Robustness optimization
