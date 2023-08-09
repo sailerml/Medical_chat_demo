@@ -18,10 +18,11 @@ The technical framework diagram of this project is as follow, where the dotted b
       | isbot  | 闲聊 |
       | accept  | 接受 |
       | diagnosis  | 医疗问诊 |
-     
-         ```python
-         python ./nlu/sklearn_Classification/clf_model.py
-         ```
+
+      ```python
+      python ./nlu/sklearn_Classification/clf_model.py
+      ```
+
    -  A medical Intent Classification Model
       |  医疗意图   | 示例  |  含义  |
       |  ----  | :----:  | ----:  |
@@ -43,8 +44,17 @@ The technical framework diagram of this project is as follow, where the dotted b
          python ./nlu/intent_recg_bert/app.py
          ```
    -  A NER model
-      ![image](https://github.com/sailerml/Medical_chat_demo/assets/10277621/51a1e24d-c188-4759-99a4-4e0a033e9a24)
-
+      |  实体类型   | 含义  | 实体数量  | 示例  |
+      |  ----  | :----:  | :----:  | ----:  |
+      | disease  | 病症 | 8807 | 肺炎 |
+      | department  | 医疗科目 | 54 | 烧伤科 |
+      | drug  | 药品 | 3828 | 布林佐胺滴眼液 |
+      | food  | 食物 | 4870 | 草莓 |
+      | check  | 诊断检查项目 | 3353 | 支气管造影 |
+      | symptom  | 症状 | 5998 | 咳嗽 |
+      | producer  | 在售药物 | 17201 | 注射用盐酸氨溴索 |
+      | total  | 总计 | 44111 | 约4.4万实体量级 |
+      
          ```python
          python ./knowledge_extraction/bilstm/app.py
          ```
